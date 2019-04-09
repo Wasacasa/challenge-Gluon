@@ -1,0 +1,38 @@
+body {
+position: absolute;
+width: 1290px;
+height: 900px;
+left: 150px;
+top: 0px;
+
+background: url("horse-2340372_960_720.jpg")
+button.normal {position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    
+    /* Gradient/Green Blue */
+    background: linear-gradient(29.05deg, #1CEC2B 0%, #3672F8 100%);
+    border-radius: 20px; 
+
+}
+/* Activities */
+
+position: absolute;
+width: 101px;
+height: 29px;
+left: calc(50% - 101px/2 + 0.5px);
+top: calc(50% - 29px/2 + 0.5px);
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: normal;
+text-align: center;
+
+color: #000000;
+}
+
+

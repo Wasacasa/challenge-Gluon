@@ -1,0 +1,40 @@
+body {
+  background /* Group */
+
+    position: absolute;
+    width: 1290px;
+    height: 900px;
+    left: 150px;
+    top: 0px;
+    
+    /* Rectangle 2 */
+
+    position: absolute;
+    width: 1290px;
+    height: 900px;
+    left: 150px;
+    top: 0px;
+
+    background: url(horse.jpg);
+    filter: blur(15px);
+  }
+  p {  /* Bienvenue au Challenge Gluon */
+
+        position: absolute;
+        width: 595px;
+        height: 282px;
+        left: 497px;
+        top: 309px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 80px;
+        line-height: normal;
+        text-align: center;
+
+        color: #FFFFFF;
+
+        /* Text/White */
+        text-shadow: 10px 10px 4px rgba(0, 0, 0, 0.15);
+}
